@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\uygulamaListeleme\uygulamaListeleme\bin\Debug\uygulamaListeleme.exe.config
+C:\Users\User\source\repos\uygulamaListeleme\uygulamaListeleme\bin\Debug\uygulamaListeleme.exe
+C:\Users\User\source\repos\uygulamaListeleme\uygulamaListeleme\bin\Debug\uygulamaListeleme.pdb
+C:\Users\User\source\repos\uygulamaListeleme\uygulamaListeleme\obj\Debug\uygulamaListeleme.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\uygulamaListeleme\uygulamaListeleme\obj\Debug\uygulamaListeleme.Form1.resources
+C:\Users\User\source\repos\uygulamaListeleme\uygulamaListeleme\obj\Debug\uygulamaListeleme.Properties.Resources.resources
+C:\Users\User\source\repos\uygulamaListeleme\uygulamaListeleme\obj\Debug\uygulamaListeleme.csproj.GenerateResource.cache
+C:\Users\User\source\repos\uygulamaListeleme\uygulamaListeleme\obj\Debug\uygulamaListeleme.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\uygulamaListeleme\uygulamaListeleme\obj\Debug\uygulamaListeleme.exe
+C:\Users\User\source\repos\uygulamaListeleme\uygulamaListeleme\obj\Debug\uygulamaListeleme.pdb
